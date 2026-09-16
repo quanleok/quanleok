@@ -1,21 +1,14 @@
 # Quan Le
 
-I build practical applications and am developing my skills in IT support and cybersecurity. My interests include troubleshooting, automation, access control, and clear technical documentation.
+This is a collection of my personal software projects. I build web apps, desktop tools, and small automations, and use GitHub to keep the code and project notes organized.
 
-## Project work
+## Personal projects
 
-| Project | What it explores | Technology |
+| Project | Description | Built with |
 | --- | --- | --- |
-| HVAC Service Management | A business website with customer records, scheduling, estimates, and admin workflows | Next.js, TypeScript, Supabase |
-| Make$ Agent Marketplace Lab | Private workspaces, file uploads, validated agent actions, and simulated car-marketplace workflows | React, TypeScript, Cloudflare D1 and R2 |
-| Anvil Creative Workspace | Local project files, desktop tools, and media workflow interfaces | Electron, React, TypeScript |
-| Myriad Film Platform | Creator dashboards, film discovery, preorders, and video delivery | Next.js, Supabase, Stripe |
+| HVAC Service Management | A website and management app for customer records, scheduling, estimates, and admin tasks | Next.js, TypeScript, Supabase |
+| Make$ Agent Marketplace | A car marketplace prototype with private workspaces, file uploads, and simulated buying and selling | React, TypeScript, Cloudflare D1 and R2 |
+| Anvil Creative Workspace | A desktop workspace for scripts, project files, media tools, and video timelines | Electron, React, TypeScript |
+| Myriad Film Platform | A film platform with browsing, creator dashboards, preorders, and video delivery | Next.js, Supabase, Stripe |
 
-These projects cover application development and hands-on learning. Application source repositories are currently private. Focused public IT and cybersecurity labs will be added as they are completed.
-
-## Current focus
-
-- Investigating security events and explaining the evidence
-- Troubleshooting application and system problems
-- Writing clear setup notes and incident handoffs
-- Handling credentials and private data carefully
+The application repositories are currently private. These projects are ongoing, and features vary by project.
