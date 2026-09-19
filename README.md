@@ -1,15 +1,15 @@
 # Quan Le
 
-This is a collection of my personal software projects. I build web apps, desktop tools, and small automations, and use GitHub to keep the code and project notes organized.
+I build web apps, desktop tools, and small security projects. These repositories show the projects I have been working on and the tools I use.
 
-## Personal projects
+## Projects
 
-| Project | Description | Built with |
+| Project | What it does | Built with |
 | --- | --- | --- |
+| [HVAC Service Management](https://github.com/quanleok/hvac-portfolio), [live site](https://www.double-le-hvac.com/) | Customer records, service jobs, estimates, and admin tools for a service business | Next.js, TypeScript, Supabase |
+| [Anvil Creative Workspace](https://github.com/quanleok/anvil-portfolio), [live site](https://www.myriadanvil.com/) | A desktop workspace for scripts, project files, media tools, and video timelines | Electron, React, TypeScript |
 | [SignalDesk](https://github.com/quanleok/signaldesk) | A security investigation workbench with Windows log imports, detection tests, evidence timelines, and optional local AI | JavaScript, Python |
-| HVAC Service Management | A website and management app for customer records, scheduling, estimates, and admin tasks | Next.js, TypeScript, Supabase |
-| Make$ Agent Marketplace | A car marketplace prototype with private workspaces, file uploads, and simulated buying and selling | React, TypeScript, Cloudflare D1 and R2 |
-| Anvil Creative Workspace | A desktop workspace for scripts, project files, media tools, and video timelines | Electron, React, TypeScript |
-| Myriad Film Platform | A film platform with browsing, creator dashboards, preorders, and video delivery | Next.js, Supabase, Stripe |
+| [Myriad Film Platform](https://github.com/quanleok/myriad-film-portfolio) | Film browsing, creator dashboards, preorders, and video delivery | Next.js, Supabase, Stripe |
+| [WC3 Dota Storefront](https://github.com/quanleok/wc3-dota-portfolio) | A game storefront with product browsing, model previews, and a demo checkout | React, TypeScript, Vite |
 
-SignalDesk is available as a public repository. The other application repositories are currently private. These projects are ongoing, and features vary by project.
+These are ongoing projects. Each repository explains what is included, how to run it, and its current limits. The portfolio copies use sample data and leave out private project records and production credentials.
